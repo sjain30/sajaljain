@@ -4,11 +4,12 @@
 ---
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,           
-I'm Sajal Jain, Student at 👨‍💻 Bharati Vidyapeeth's College of Engineering, New Delhi Pursuing B.Tech.  
-I'm pursuing android app developement using Java and Kotlin and working on projects for the same. I've also tried my hand at UI/UX Designing. I am a highly motivated individual with a passion for constant developing skills and growing professionally. Would love to be a Full Stack Developer and see myself as a Product / Program Manager in my later career.  
+I'm Sajal Jain, Student at 👨‍💻 Bharati Vidyapeeth's College of Engineering, New Delhi pursuing B.Tech.  
+I'm pursuing android app developement as career using Java and Kotlin and working on projects for the same. I've also tried my hand at UI/UX Designing. I am a highly motivated individual with a passion for constant developing skills and growing professionally. Would love to be a Full Stack Developer and see myself as a Product / Program Manager in my later career.  
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help fellow students grow
+- ✨ I thrive for creativity, innovation and aesthetics
 - 😄 I also like to organize and manage various events in college
 - 👾 Languages: Java, Python, C/C++
 - 🛠 Software: Android Studio, Adobe XD, IntelliJ IDEA, Jupyter
@@ -18,7 +19,7 @@ I'm pursuing android app developement using Java and Kotlin and working on proje
 
 # Hello World!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/9654941174)
 - ⚡ Fun fact: Initially I wanted to be automobile engineer and design cars.
 ---
 
