@@ -19,8 +19,7 @@ I'm pursuing android app developement as career using Java and Kotlin and workin
   - [BVPIEEE Official App](https://github.com/BVPIEEE/BVPIEEE-APP-OFFICIAL)
 
 # Hello World!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-- 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/9654941174)
+- 💬 Ask me about anything and everything!
 - ⚡ Fun fact: Initially I wanted to be automobile engineer and design cars.
 ---
 
